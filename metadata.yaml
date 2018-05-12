@@ -1,0 +1,34 @@
+_repo: Barbara-in-Brittany_22774
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Adams, Frank
+    birthdate: 1871
+    deathdate: 1944
+    gutenberg_agent_id: '32247'
+    url: http://www.gutenberg.org/2009/agents/32247
+covers:
+- cover_type: archival
+  image_path: 22774-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gillie, E. A.
+    gutenberg_agent_id: '25534'
+    url: http://www.gutenberg.org/2009/agents/25534
+description: ''
+gutenberg_issued: '2007-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English -- France -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcc 'PZ'
+title: Barbara in Brittany
+url: http://www.gutenberg.org/ebooks/22774
